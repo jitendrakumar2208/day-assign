@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jitendrakumar2208/day-assign.git/static/css/main.2f6ec4d0.css",
+    "main.js": "/jitendrakumar2208/day-assign.git/static/js/main.574b261d.js",
+    "static/js/453.143fed99.chunk.js": "/jitendrakumar2208/day-assign.git/static/js/453.143fed99.chunk.js",
+    "index.html": "/jitendrakumar2208/day-assign.git/index.html",
+    "main.2f6ec4d0.css.map": "/jitendrakumar2208/day-assign.git/static/css/main.2f6ec4d0.css.map",
+    "main.574b261d.js.map": "/jitendrakumar2208/day-assign.git/static/js/main.574b261d.js.map",
+    "453.143fed99.chunk.js.map": "/jitendrakumar2208/day-assign.git/static/js/453.143fed99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f6ec4d0.css",
+    "static/js/main.574b261d.js"
+  ]
+}
